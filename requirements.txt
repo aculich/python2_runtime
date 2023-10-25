@@ -3,3 +3,4 @@ numpy
 matplotlib
 xlrd
 openpyxl
+fpdf
